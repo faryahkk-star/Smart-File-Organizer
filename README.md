@@ -1,4 +1,4 @@
-import os7
+import os
 import shutil
 
 # Folder to organize
