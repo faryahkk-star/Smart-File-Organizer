@@ -1,4 +1,4 @@
-import os0
+import os
 import shutil
 
 # Folder to organize
